@@ -3,6 +3,8 @@
 <head>
   <title>Landing Page P1</title>
   <meta charset='utf-8'>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
 </head>
 <body>
   <h1>Anthony Brunson</h1>
