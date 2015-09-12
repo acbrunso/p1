@@ -1,0 +1,14 @@
+h1 {
+
+  font-size: 16px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 14px;
+
+}
+
+h1, h2 {
+  color: #001F4C;
+}
