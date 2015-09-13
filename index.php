@@ -5,7 +5,7 @@
   <meta charset='utf-8'>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<body>
+<body style="background-color:#E0F0FF">
   <div id="main">
   <div id="header">
     <h1>Anthony Brunson</h1>
@@ -16,11 +16,14 @@
 
   <div id="nav">
     <h3>Project 2 Title</h3>
-      <a href="http://www.google.com">Placeholder</a>
+      View: <a href="http://www.google.com">Placeholder</a>
+      Github: <a href="http://www.google.com">Placeholder</a>
     <h3>Project 3 Title</h3>
-      <a href="http://www.google.com">Placeholder</a>
+      View: <a href="http://www.google.com">Placeholder</a>
+      Github: <a href="http://www.google.com">Placeholder</a>
     <h3>Project 4 Title</h3>
-      <a href="http://www.google.com">Placeholder</a>
+      View: <a href="http://www.google.com">Placeholder</a>
+      Github: <a href="http://www.google.com">Placeholder</a>
   </div>
   <div id="section">
     <h2>In 2+ sentences describe who you are and what you do.</h2>
