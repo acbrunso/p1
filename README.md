@@ -2,7 +2,7 @@
 # Hello World
 
 ## Live URL
-p1.anthonybrunson.me
+<http://p1.anthonybrunson.me>
 
 ## Description
 This is project 1 which is used to allow the TA's to navigate through
