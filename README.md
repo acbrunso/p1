@@ -1,5 +1,5 @@
 9/12/2015
-# Hello World
+# CSCI E-15 Dynamic Web Design
 
 ## Live URL
 <http://p1.anthonybrunson.me>
