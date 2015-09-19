@@ -15,9 +15,9 @@
   </div>
 
   <div id="nav">
-    <h3>Project 2 Title</h3>
-      View: <a href="http://www.google.com">Placeholder</a>
-      Github: <a href="http://www.google.com">Placeholder</a>
+    <h3>Project 2 Password Generator</h3>
+      View: <a href="http://p2.anthonybrunson.me">Live Link</a>
+      Github: <a href="https://github.com/acbrunso/p2">Github Link</a>
     <h3>Project 3 Title</h3>
       View: <a href="http://www.google.com">Placeholder</a>
       Github: <a href="http://www.google.com">Placeholder</a>
