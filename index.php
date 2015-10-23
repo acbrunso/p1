@@ -51,7 +51,7 @@
       up new/different technologies at any time and make it work.
     </p>
     <h2>Anything else we should know?</h2>
-    <p> I am married with a beautiful daughter, I run a rental business, and I work full time.
+    <p>I run a rental business, and I work full time.
       I am a busy person, but I always have time to further my knowledge in what I love, and I
       love computers.
     </p>
