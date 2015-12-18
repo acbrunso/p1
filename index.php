@@ -21,7 +21,7 @@
     <h3>Project 3 Title</h3>
     View: <a href="http://p3.anthonybrunson.me">Live Link</a>
     Github: <a href="https://github.com/acbrunso/p3">Github Link</a>
-    <h3>Project 4 Title</h3>
+    <h3>Brunstar Hosting</h3>
     View: <a href="http://p4.anthonybrunson.me">Live Link</a>
     Github: <a href="https://github.com/acbrunso/p4">Github Link</a>
   </div>
